@@ -1,0 +1,51 @@
+header {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    margin: 10px 505px;
+}
+
+.webimg {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
+
+.Webpage-title {
+    border: 2px solid black;
+    display: inline-block;
+    width: 65%
+}
+
+/* table,
+td {
+    border: 2px solid black;
+
+} */
+td {
+    text-align: center;
+}
+
+table {
+    width: 33%;
+    /* cellspacing: 20; */
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.Contact-page {
+    margin-left: 10px;
+
+}
+
+hr {
+    display: inline-block;
+    width: 100px;
+    margin: 0 710px;
+    border-top: 4px dotted lightgrey;
+    border-bottom: none;
+
+}
